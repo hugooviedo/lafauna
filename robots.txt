@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hugooviedo.github.io/lafauna/sitemap.xml

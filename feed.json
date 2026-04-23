@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "La Fauna",
+    "description": "",
+    "home_page_url": "https://hugooviedo.github.io/lafauna",
+    "feed_url": "https://hugooviedo.github.io/lafauna/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hugo Oviedo"
+    },
+    "items": [
+        {
+            "id": "https://hugooviedo.github.io/lafauna/titulo-de-la-guea.html",
+            "url": "https://hugooviedo.github.io/lafauna/titulo-de-la-guea.html",
+            "title": "titulo de la guea",
+            "summary": "el verso hola mundo!",
+            "content_html": "<p>el verso hola mundo!</p>",
+            "image": "https://hugooviedo.github.io/lafauna/media/posts/1/Captura-de-pantalla-2026-04-14-122017.png",
+            "author": {
+                "name": "Hugo Oviedo"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-22T20:07:43-04:00",
+            "date_modified": "2026-04-22T20:07:43-04:00"
+        }
+    ]
+}
