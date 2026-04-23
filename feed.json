@@ -13,8 +13,8 @@
             "id": "https://hugooviedo.github.io/lafauna/titulo-de-la-guea.html",
             "url": "https://hugooviedo.github.io/lafauna/titulo-de-la-guea.html",
             "title": "titulo de la guea",
-            "summary": "el verso hola mundo!",
-            "content_html": "<p>el verso hola mundo!</p>",
+            "summary": "el verso hola mundo!} 2da edicion",
+            "content_html": "<p>el verso hola mundo!}</p>\n<p> </p>\n<p>2da edicion</p>",
             "image": "https://hugooviedo.github.io/lafauna/media/posts/1/Captura-de-pantalla-2026-04-14-122017.png",
             "author": {
                 "name": "Hugo Oviedo"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2026-04-22T20:07:43-04:00",
-            "date_modified": "2026-04-22T20:07:43-04:00"
+            "date_modified": "2026-04-22T20:20:57-04:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>La Fauna</title>
     <link href="https://hugooviedo.github.io/lafauna/feed.xml" rel="self" />
     <link href="https://hugooviedo.github.io/lafauna" />
-    <updated>2026-04-22T20:07:43-04:00</updated>
+    <updated>2026-04-22T20:20:57-04:00</updated>
     <author>
         <name>Hugo Oviedo</name>
     </author>
@@ -22,13 +22,15 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://hugooviedo.github.io/lafauna/media/posts/1/Captura-de-pantalla-2026-04-14-122017.png" alt="" />
-                    el verso hola mundo!
+                    el verso hola mundo!} 2da edicion
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://hugooviedo.github.io/lafauna/media/posts/1/Captura-de-pantalla-2026-04-14-122017.png" class="type:primaryImage" alt="" /></p>
-                <p>el verso hola mundo!</p>
+                <p>el verso hola mundo!}</p>
+<p> </p>
+<p>2da edicion</p>
             ]]>
         </content>
     </entry>
