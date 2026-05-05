@@ -3,12 +3,39 @@
     <title>La Fauna</title>
     <link href="https://hugooviedo.github.io/lafauna/feed.xml" rel="self" />
     <link href="https://hugooviedo.github.io/lafauna" />
-    <updated>2026-05-04T22:51:12-04:00</updated>
+    <updated>2026-05-05T18:43:23-04:00</updated>
     <author>
         <name>Hugo Oviedo</name>
     </author>
     <id>https://hugooviedo.github.io/lafauna</id>
 
+    <entry>
+        <title>Las geografías de Onfray </title>
+        <author>
+            <name>Hugo Oviedo</name>
+        </author>
+        <link href="https://hugooviedo.github.io/lafauna/las-geografias-de-onfray-2.html"/>
+        <id>https://hugooviedo.github.io/lafauna/las-geografias-de-onfray-2.html</id>
+
+        <updated>2026-05-05T18:43:23-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Un lago, un aeropuerto o la ciudad. Son un ejemplo de algunas zonas geográficas que -habitualmente- aparecen en la filosofía de Michel Onfray. Estas no actúan como puro contexto. Es decir, un escenario en donde ocurre la travesía del héroe, sino que adquieren una especie&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 200;"> </span><span style="font-weight: 200;">Un lago, un aeropuerto o la ciudad. Son un ejemplo de algunas zonas geográficas que -habitualmente- aparecen en la filosofía de Michel Onfray. Estas no actúan como puro contexto. Es decir, un escenario en donde ocurre la travesía del héroe, sino que adquieren una especie de viscosidad acuosa, de líquido amniótico en donde madura el pensamiento del francés.  </span></p>
+<p><span style="font-weight: 200;">De Ediciones Godot, </span><i><span style="font-weight: 200;">Thoreau, El Salvaje, </span></i><span style="font-weight: 200;">Onfray va zurciendo aquellos lugares que marcaron la vida de Henry David Thoreau (1817-1862) con el desarrollo de su pensamiento y obra.</span></p>
+<blockquote>
+<p><span style="font-weight: 200;">abolicionista norteamericano</span></p>
+<p><span style="font-weight: 200;"> analiza en un tono biográfico la vida , a quien ubica entre los grandes pensadores de su tiempo. Ahí El lago Walden y la cabaña en Massachusetts </span></p>
+<p><span style="font-weight: 200;">como su cabaña en el lago Walden -Massachusetts-, </span></p>
+<p><span style="font-weight: 200;">su estancia en la cárcel o la decisión -al final de sus días- de apoyar la violencia política. </span></p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ítaca de Kavafis</title>
         <author>
@@ -393,37 +420,6 @@
 <p><span style="font-weight: 200;">Una vitrina con las distintas corrientes anarquistas; una crítica solapada al insurreccionalismo; o un diálogo ameno sobre ideas libertarias es lo que uno puede encontrar en el libro </span><i><span style="font-weight: 200;">El banquero anarquista </span></i><span style="font-weight: 200;">de Fernando Pessoa, de la colección Confabulaciones de editorial Eneida. </span></p>
 <p><span style="font-weight: 200;">¿Puede un dueño de un banco ser anarquista? En una genial conversación Pessoa va desentrañando el pensamiento libertario de este singular personaje, que durante su vida atravesó distintos estadios de lo que habitualmente calificamos como anarquismo. </span></p>
 <p><br><br><br></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Las geografías de Onfray </title>
-        <author>
-            <name>Hugo Oviedo</name>
-        </author>
-        <link href="https://hugooviedo.github.io/lafauna/las-geografias-de-onfray.html"/>
-        <id>https://hugooviedo.github.io/lafauna/las-geografias-de-onfray.html</id>
-
-        <updated>2026-04-28T22:55:42-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Un lago, un aeropuerto o la ciudad. Son un ejemplo de algunas zonas geográficas que -habitualmente- aparecen en la filosofía de Michel Onfray. Estas no actúan como puro contexto. Es decir, un escenario en donde ocurre la travesía del héroe, sino que adquieren una especie&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><span style="font-weight: 200;">Un lago, un aeropuerto o la ciudad. Son un ejemplo de algunas zonas geográficas que -habitualmente- aparecen en la filosofía de Michel Onfray. Estas no actúan como puro contexto. Es decir, un escenario en donde ocurre la travesía del héroe, sino que adquieren una especie de viscosidad acuosa, de líquido amniótico en donde madura el pensamiento del francés.  </span></p>
-<p><span style="font-weight: 200;">De Ediciones Godot, </span><i><span style="font-weight: 200;">Thoreau, El Salvaje, </span></i><span style="font-weight: 200;">Onfray va zurciendo aquellos lugares que marcaron la vida de Henry David Thoreau (1817-1862) con el desarrollo de su pensamiento y obra.</span></p>
-<p> </p>
-<p><span style="font-weight: 200;">abolicionista norteamericano</span></p>
-<p> </p>
-<p><span style="font-weight: 200;"> analiza en un tono biográfico la vida , a quien ubica entre los grandes pensadores de su tiempo. Ahí El lago Walden y la cabaña en Massachusetts </span></p>
-<p><br><br></p>
-<p><span style="font-weight: 200;">como su cabaña en el lago Walden -Massachusetts-, </span></p>
-<p> </p>
-<p><span style="font-weight: 200;">su estancia en la cárcel o la decisión -al final de sus días- de apoyar la violencia política. </span></p>
-<p><span style="font-weight: 200;"> </span></p>
-<p> </p>
             ]]>
         </content>
     </entry>

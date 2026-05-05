@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://hugooviedo.github.io/lafauna/las-geografias-de-onfray-2.html",
+            "url": "https://hugooviedo.github.io/lafauna/las-geografias-de-onfray-2.html",
+            "title": "Las geografías de Onfray ",
+            "summary": "Un lago, un aeropuerto o la ciudad. Son un ejemplo de algunas zonas geográficas que -habitualmente- aparecen en la filosofía de Michel Onfray. Estas no actúan como puro contexto. Es decir, un escenario en donde ocurre la travesía del héroe, sino que adquieren una especie&hellip;",
+            "content_html": "<p><span style=\"font-weight: 200;\"> </span><span style=\"font-weight: 200;\">Un lago, un aeropuerto o la ciudad. Son un ejemplo de algunas zonas geográficas que -habitualmente- aparecen en la filosofía de Michel Onfray. Estas no actúan como puro contexto. Es decir, un escenario en donde ocurre la travesía del héroe, sino que adquieren una especie de viscosidad acuosa, de líquido amniótico en donde madura el pensamiento del francés.  </span></p>\n<p><span style=\"font-weight: 200;\">De Ediciones Godot, </span><i><span style=\"font-weight: 200;\">Thoreau, El Salvaje, </span></i><span style=\"font-weight: 200;\">Onfray va zurciendo aquellos lugares que marcaron la vida de Henry David Thoreau (1817-1862) con el desarrollo de su pensamiento y obra.</span></p>\n<blockquote>\n<p><span style=\"font-weight: 200;\">abolicionista norteamericano</span></p>\n<p><span style=\"font-weight: 200;\"> analiza en un tono biográfico la vida , a quien ubica entre los grandes pensadores de su tiempo. Ahí El lago Walden y la cabaña en Massachusetts </span></p>\n<p><span style=\"font-weight: 200;\">como su cabaña en el lago Walden -Massachusetts-, </span></p>\n<p><span style=\"font-weight: 200;\">su estancia en la cárcel o la decisión -al final de sus días- de apoyar la violencia política. </span></p>\n</blockquote>",
+            "author": {
+                "name": "Hugo Oviedo"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-05T18:43:23-04:00",
+            "date_modified": "2026-05-05T18:43:23-04:00"
+        },
+        {
             "id": "https://hugooviedo.github.io/lafauna/itaca-de-kavafis.html",
             "url": "https://hugooviedo.github.io/lafauna/itaca-de-kavafis.html",
             "title": "Ítaca de Kavafis",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-04-28T23:00:26-04:00",
             "date_modified": "2026-04-28T23:00:26-04:00"
-        },
-        {
-            "id": "https://hugooviedo.github.io/lafauna/las-geografias-de-onfray.html",
-            "url": "https://hugooviedo.github.io/lafauna/las-geografias-de-onfray.html",
-            "title": "Las geografías de Onfray ",
-            "summary": "Un lago, un aeropuerto o la ciudad. Son un ejemplo de algunas zonas geográficas que -habitualmente- aparecen en la filosofía de Michel Onfray. Estas no actúan como puro contexto. Es decir, un escenario en donde ocurre la travesía del héroe, sino que adquieren una especie&hellip;",
-            "content_html": "<p><span style=\"font-weight: 200;\">Un lago, un aeropuerto o la ciudad. Son un ejemplo de algunas zonas geográficas que -habitualmente- aparecen en la filosofía de Michel Onfray. Estas no actúan como puro contexto. Es decir, un escenario en donde ocurre la travesía del héroe, sino que adquieren una especie de viscosidad acuosa, de líquido amniótico en donde madura el pensamiento del francés.  </span></p>\n<p><span style=\"font-weight: 200;\">De Ediciones Godot, </span><i><span style=\"font-weight: 200;\">Thoreau, El Salvaje, </span></i><span style=\"font-weight: 200;\">Onfray va zurciendo aquellos lugares que marcaron la vida de Henry David Thoreau (1817-1862) con el desarrollo de su pensamiento y obra.</span></p>\n<p> </p>\n<p><span style=\"font-weight: 200;\">abolicionista norteamericano</span></p>\n<p> </p>\n<p><span style=\"font-weight: 200;\"> analiza en un tono biográfico la vida , a quien ubica entre los grandes pensadores de su tiempo. Ahí El lago Walden y la cabaña en Massachusetts </span></p>\n<p><br><br></p>\n<p><span style=\"font-weight: 200;\">como su cabaña en el lago Walden -Massachusetts-, </span></p>\n<p> </p>\n<p><span style=\"font-weight: 200;\">su estancia en la cárcel o la decisión -al final de sus días- de apoyar la violencia política. </span></p>\n<p><span style=\"font-weight: 200;\"> </span></p>\n<p> </p>",
-            "author": {
-                "name": "Hugo Oviedo"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-28T22:55:42-04:00",
-            "date_modified": "2026-04-28T22:55:42-04:00"
         }
     ]
 }
