@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://hugooviedo.github.io/lafauna/chaka.html",
+            "url": "https://hugooviedo.github.io/lafauna/chaka.html",
+            "title": "Chaka",
+            "summary": "La sangre de Orgo bajaba estrepitosa por su pecho, cálida entre las manos de su madre. El circo era un infierno, aún así pudo salirse completo de esa escena, sus ojos fijos en el momento en que ingresaba una y otra vez el cuchillo, pero&hellip;",
+            "content_html": "<p>La sangre de Orgo bajaba estrepitosa por su pecho, cálida entre las manos de su madre. El circo era un infierno, aún así pudo salirse completo de esa escena, sus ojos fijos en el momento en que ingresaba una y otra vez el cuchillo, pero ya no veía. Una música al fondo de la carpa, lo llamaba desde su propio pensamiento, cósmica, ancestral, repetida en un espacio infinito. Pensó en todo el abismo del mundo, mientras el ritmo continuaba sacándolo completo del circo. Eso es Chaka</p>",
+            "author": {
+                "name": "Hugo Oviedo"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-16T20:03:51-04:00",
+            "date_modified": "2026-05-16T20:03:51-04:00"
+        },
+        {
             "id": "https://hugooviedo.github.io/lafauna/reel-injun-indios-de-pelicula.html",
             "url": "https://hugooviedo.github.io/lafauna/reel-injun-indios-de-pelicula.html",
             "title": "Reel injun: indios de película",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-05-11T23:02:03-04:00",
             "date_modified": "2026-05-11T23:02:03-04:00"
-        },
-        {
-            "id": "https://hugooviedo.github.io/lafauna/un-refugio-en-la-serena-2.html",
-            "url": "https://hugooviedo.github.io/lafauna/un-refugio-en-la-serena-2.html",
-            "title": "Un refugio en La Serena",
-            "summary": "\"Desde que soy criatura vagabunda, desterrada voluntaria, parece que no escribo sino en medio de un vaho de fantasmas\". Esta pequeña frase de Gabriel Mistral está escrita en una de las vigas de concreto que soportan el cuarto piso de la biblioteca que lleva su&hellip;",
-            "content_html": "<blockquote>\n<p><span style=\"font-weight: 200;\">\"Desde que soy criatura vagabunda, desterrada voluntaria, parece que no escribo sino en medio de un vaho de fantasmas\". </span></p>\n</blockquote>\n<p><span style=\"font-weight: 200;\">Esta pequeña frase de Gabriel Mistral está escrita en una de las vigas de concreto que soportan el cuarto piso de la biblioteca que lleva su nombre en la ciudad de La Serena. Este lugar ha sido una especie de refugio pasajero para nosotros. G. trabaja en sus informes de prensa y yo la acompaño en este tránsito como un periodista desempleado, esperando su viaje a Irlanda. Un destierro voluntario de ambos y que mágicamente nos cae como un mensaje, desde lo alto de esa viga de concreto, del moderno edificio que resguarda la vida y obra de la única premio Nobel mujer que ha tenido nuestro país.</span></p>\n<p><span style=\"font-weight: 200;\">En la pared hay una fotografía blanco y negro del año 1922, en la Ciudad de México, que muestra a la poeta chilena sentada junto a un grupo de hombres vestidos de traje, en una especie de mitin literario y de fondo el tronco de un gran árbol. Gabriel Mistral en el centro, vestida de un riguroso negro y con su cabeza levemente hacia su izquierda.</span></p>\n<p><span style=\"font-weight: 200;\">¿Qué característica tienen las criaturas vagabundas? ¿Son necesariamente almas de poetas fugados hacia los bordes del mundo? y en ese trayecto ¿Solo vemos vapores de fantasmas?.</span></p>\n<p><span style=\"font-weight: 200;\">En estos días he encontrado libros hermosos, como uno del fotógrafo Tomás Munita, o uno de comunicación no verbal. Las bibliotecas abiertas tienen esa particularidad, puedes elegir los libros que te llamen la atención, tomarlos y leerlos.  </span></p>",
-            "author": {
-                "name": "Hugo Oviedo"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-11T22:57:29-04:00",
-            "date_modified": "2026-05-11T22:57:29-04:00"
         }
     ]
 }
